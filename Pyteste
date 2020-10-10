@@ -1,6 +1,0 @@
-#Aula 1 Olá Mundo no Python
-
-print("Olá, Mundo!")
-
-msg = ("Olá, Mundo!")
-print(msg) 
